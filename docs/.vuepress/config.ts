@@ -14,7 +14,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/suxiaomin/',
+  base: '/',
   lang: 'zh-CN',
   title: 'My Vuepress plume',
   description: '我的笔记和博客网站',
